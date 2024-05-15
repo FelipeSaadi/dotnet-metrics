@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/FtUyrdpZCznXJx+R3reT+ZZfNw0rhN6NDjrnLwLs3SdMWjcTQ1ZECxCOumbQ2bay48y4E3pLzSOVTk/aIDgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\projects\\Inteli\\m10\\dotnet-metrics\\custom-metrics\\custom-metrics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saadi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
