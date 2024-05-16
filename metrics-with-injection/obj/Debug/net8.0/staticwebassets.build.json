@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RalX8kYQxlmeEUMWN9VBqp9XhlHPlY91IwbXUVHQGgw=",
+  "Source": "metrics-with-injection",
+  "BasePath": "_content/metrics-with-injection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
